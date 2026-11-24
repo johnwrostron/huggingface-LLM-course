@@ -8,7 +8,7 @@ Personal study log and table of contents for the [Hugging Face LLM Course](https
 
 ## Course Table of Contents
 
-- [ ] **0. Setup** — [Course Overview & Setup](https://huggingface.co/learn/llm-course/chapter0/1)
+- [x] **0. Setup** — [Course Overview & Setup](https://huggingface.co/learn/llm-course/chapter0/1)
 - [ ] **1. Transformer models** — [Chapter 1: Introduction](https://huggingface.co/learn/llm-course/chapter1/1)
   - [ ] Introduction
   - [ ] Natural Language Processing and Large Language Models
